@@ -1,0 +1,14 @@
+{
+  "name": "vitepress_cnm",
+  "version": "1.0.0",
+  "description": "documentation xml cnm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calixto Nascimento",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.29"
+  }
+}
