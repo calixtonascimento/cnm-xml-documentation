@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as n,a as o}from"./app.ddee7b93.js";const u=JSON.parse('{"title":"Encoding","description":"","frontmatter":{},"headers":[],"relativePath":"arquivo/encoding.md","lastUpdated":null}'),s={name:"arquivo/encoding.md"},t=o("",3),r=[t];function c(l,p,i,d,_,h){return n(),e("div",null,r)}const D=a(s,[["render",c]]);export{u as __pageData,D as default};
