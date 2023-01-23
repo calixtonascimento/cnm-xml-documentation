@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,a as n}from"./app.ddee7b93.js";const y=JSON.parse('{"title":"Imoveis","description":"","frontmatter":{},"headers":[],"relativePath":"arquivo/imoveis.md","lastUpdated":null}'),o={name:"arquivo/imoveis.md"},l=n("",3),t=[l];function p(c,i,r,d,D,F){return e(),a("div",null,t)}const _=s(o,[["render",p]]);export{y as __pageData,_ as default};

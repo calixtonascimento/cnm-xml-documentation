@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,a as l}from"./app.ddee7b93.js";const C=JSON.parse('{"title":"Demais Tags","description":"","frontmatter":{},"headers":[],"relativePath":"arquivo/outras-tags.md","lastUpdated":null}'),p={name:"arquivo/outras-tags.md"},o=l("",4),t=[o];function e(c,r,F,D,y,i){return n(),a("div",null,t)}const A=s(p,[["render",e]]);export{C as __pageData,A as default};
